@@ -2,3 +2,4 @@ pyppeteer
 flask
 flask[async]
 pyppeteer[async]
+hypercorn
